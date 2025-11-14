@@ -1,0 +1,80 @@
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Allosaurus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Ankylosaurus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Basilosaurus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Carcharodontosaurus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Cerato
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Daeodon
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Deinonychus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Deinonychus Saddle
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Deinonychus Saddle Engram
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Deinosuchus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Direbear
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Doedicurus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Fasolasuchus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Fire Wyvern
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Fenrir
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Fenrir Saddle 
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Fenrir Saddle Engram Entry
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Lightning Wyvern
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Maeguana
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Maewing
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Maewing Saddle
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Maewing Saddle Engram
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Mantis
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Megalosaurus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Mosasaurus
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Otter
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Plesiosaur
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Poison Wyvern
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Queen Bee
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Rex
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Reaper King
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Reaper Queen
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Rockdrake
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Snow Owl
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Spino
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Therizinosaur
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Thylacoleo
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Triceratops
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Unicorn
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
+DinoSpawnWeightMultipliers=(DinoNameTag=S-Velonasaur
+,SpawnWeightMultiplier=0.1,OverrideSpawnLimitPercentage=false)
